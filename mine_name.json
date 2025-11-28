@@ -1,22 +1,22 @@
 [
   {
-    "OBJECTID": 770908,
-    "MINE_NAME": "Record Ridge [Magnesium Mine] / Midnight Property"
+    "OBJECTID": 5199248,
+    "MINE_NAME": "Eleven Mile"
   },
   {
-    "OBJECTID": 771253,
+    "OBJECTID": 5201949,
     "MINE_NAME": "87 Mile Pit"
   },
   {
-    "OBJECTID": 773556,
-    "MINE_NAME": "Cemetery Pit"
-  },
-  {
-    "OBJECTID": 773488,
+    "OBJECTID": 5204242,
     "MINE_NAME": "Hawkins Pickle Road Quarry"
   },
   {
-    "OBJECTID": 773206,
+    "OBJECTID": 5203949,
     "MINE_NAME": "Seeley Quarry"
+  },
+  {
+    "OBJECTID": 5204311,
+    "MINE_NAME": "Cemetery Pit"
   }
 ]
